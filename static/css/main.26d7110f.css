@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{margin:0}main{padding:36px}.nav{align-items:center;background-image:linear-gradient(90deg,#4c0163,#7a009f,#c300fe);color:#fff;display:flex;height:68px;padding:20px}.nav-icon{height:100%;margin-right:6px}.nav--title{font-size:.75rem;margin-right:auto}.form{grid-gap:12px;display:grid;gap:12px;grid-template:40px 40px/1fr 1fr}.form--input{border:1px solid #d5d4d8;border-radius:5px;text-indent:5px}.form--button{background-image:linear-gradient(90deg,#4c0163,#7a009f,#c300fe);color:#fff;grid-column:1/-1}
+/*# sourceMappingURL=main.26d7110f.css.map*/
